@@ -1,0 +1,8 @@
+com\tenant\exception\TenantNotFoundException.class
+com\tenant\model\Tenant.class
+com\tenant\repository\RentReceiptRepository.class
+com\tenant\model\LocalDateTimeConverter.class
+com\tenant\resource\TenantResource.class
+com\tenant\repository\TenantRepository.class
+com\tenant\model\RentReceipt.class
+com\tenant\SpringBootMain.class
